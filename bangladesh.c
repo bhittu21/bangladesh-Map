@@ -239,94 +239,94 @@ int main() {
     printf("\n");
 
     // Line 22
-    for (int i=0; i<1*mapSize;i++) printf(" ");
+    for (int i=0; i<2*1*mapSize;i++) printf(" ");
     for (int i=0; i<2*38*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 23
-    for (int i=0; i<2*mapSize;i++) printf(" ");
+    for (int i=0; i<2*2*mapSize;i++) printf(" ");
     for (int i=0; i<2*38*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 24
-    for (int i=0; i<3*mapSize;i++) printf(" ");
+    for (int i=0; i<2*3*mapSize;i++) printf(" ");
     for (int i=0; i<2*36*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 25
-    for (int i=0; i<6*mapSize;i++) printf(" ");
+    for (int i=0; i<2*6*mapSize;i++) printf(" ");
     for (int i=0; i<2*31*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 26
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*30*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 27
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*27*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 28
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*24*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 29
-    for (int i=0; i<5*mapSize;i++) printf(" ");
+    for (int i=0; i<2*5*mapSize;i++) printf(" ");
     for (int i=0; i<2*25*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 30
-    for (int i=0; i<5*mapSize;i++) printf(" ");
+    for (int i=0; i<2*5*mapSize;i++) printf(" ");
     for (int i=0; i<2*25*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 31
-    for (int i=0; i<5*mapSize;i++) printf(" ");
+    for (int i=0; i<2*5*mapSize;i++) printf(" ");
     for (int i=0; i<2*25*mapSize;i++) printf("*");
     for (int i=0; i<7*mapSize;i++) printf(" ");
     for (int i=0; i<2*3*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 32
-    for (int i=0; i<6*mapSize;i++) printf(" ");
+    for (int i=0; i<2*6*mapSize;i++) printf(" ");
     for (int i=0; i<2*24*mapSize;i++) printf("*");
     for (int i=0; i<6*mapSize;i++) printf(" ");
     for (int i=0; i<2*5*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 33
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*23*mapSize;i++) printf("*");
     for (int i=0; i<7*mapSize;i++) printf(" ");
     for (int i=0; i<2*4*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 34
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*24*mapSize;i++) printf("*");
     for (int i=0; i<5*mapSize;i++) printf(" ");
     for (int i=0; i<2*6*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 35
-    for (int i=0; i<7*mapSize;i++) printf(" ");
+    for (int i=0; i<2*7*mapSize;i++) printf(" ");
     for (int i=0; i<2*24*mapSize;i++) printf("*");
     for (int i=0; i<4*mapSize;i++) printf(" ");
     for (int i=0; i<2*7*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 36
-    for (int i=0; i<8*mapSize;i++) printf(" ");
+    for (int i=0; i<2*8*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 37
-    for (int i=0; i<8*mapSize;i++) printf(" ");
+    for (int i=0; i<2*8*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*8*mapSize;i++) printf("*");
@@ -335,91 +335,91 @@ int main() {
     printf("\n");
 
     // Line 38
-    for (int i=0; i<8*mapSize;i++) printf(" ");
+    for (int i=0; i<2*8*mapSize;i++) printf(" ");
     for (int i=0; i<2*15*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 39
-    for (int i=0; i<9*mapSize;i++) printf(" ");
+    for (int i=0; i<2*9*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 40
-    for (int i=0; i<8*mapSize;i++) printf(" ");
+    for (int i=0; i<2*8*mapSize;i++) printf(" ");
     for (int i=0; i<2*17*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 41
-    for (int i=0; i<9*mapSize;i++) printf(" ");
+    for (int i=0; i<2*9*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     for (int i=0; i<2*mapSize;i++) printf(" ");
     for (int i=0; i<2*17*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 42
-    for (int i=0; i<9*mapSize;i++) printf(" ");
+    for (int i=0; i<2*9*mapSize;i++) printf(" ");
     for (int i=0; i<2*17*mapSize;i++) printf("*");
     for (int i=0; i<1*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 43
-    for (int i=0; i<10*mapSize;i++) printf(" ");
+    for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*21*mapSize;i++) printf("*");
     for (int i=0; i<2*1*mapSize;i++) printf(" ");
     for (int i=0; i<2*11*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 44
-    for (int i=0; i<9*mapSize;i++) printf(" ");
+    for (int i=0; i<2*9*mapSize;i++) printf(" ");
     for (int i=0; i<2*20*mapSize;i++) printf("*");
     for (int i=0; i<2*6*mapSize;i++) printf(" ");
     for (int i=0; i<2*8*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 45
-    for (int i=0; i<10*mapSize;i++) printf(" ");
+    for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*17*mapSize;i++) printf("*");
     for (int i=0; i<2*8*mapSize;i++) printf(" ");
     for (int i=0; i<2*9*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 46
-    for (int i=0; i<11*mapSize;i++) printf(" ");
+    for (int i=0; i<2*11*mapSize;i++) printf(" ");
     for (int i=0; i<2*15*mapSize;i++) printf("*");
     for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*7*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 47
-    for (int i=0; i<10*mapSize;i++) printf(" ");
+    for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*16*mapSize;i++) printf("*");
     for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*8*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 48
-    for (int i=0; i<11*mapSize;i++) printf(" ");
+    for (int i=0; i<2*11*mapSize;i++) printf(" ");
     for (int i=0; i<2*14*mapSize;i++) printf("*");
     for (int i=0; i<2*12*mapSize;i++) printf(" ");
     for (int i=0; i<2*7*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 49
-    for (int i=0; i<10*mapSize;i++) printf(" ");
+    for (int i=0; i<2*10*mapSize;i++) printf(" ");
     for (int i=0; i<2*12*mapSize;i++) printf("*");
     for (int i=0; i<2*15*mapSize;i++) printf(" ");
     for (int i=0; i<2*7*mapSize;i++) printf("*");
     printf("\n");
 
     // Line 50
-    for (int i=0; i<9*mapSize;i++) printf(" ");
+    for (int i=0; i<2*9*mapSize;i++) printf(" ");
     for (int i=0; i<2*8*mapSize;i++) printf("*");
     for (int i=0; i<2*20*mapSize;i++) printf(" ");
     for (int i=0; i<2*7*mapSize;i++) printf("*");
@@ -476,8 +476,6 @@ int main() {
     for (int i=0; i<2*41*mapSize;i++) printf(" ");
     for (int i=0; i<2*1*mapSize;i++) printf("*");
     printf("\n");
-
-
 
     getchar();
     return 0;
